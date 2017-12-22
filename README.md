@@ -4,6 +4,6 @@
 * [Introduction to Machine Learning
 ](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/schedule.html): Though this is just an introduction course, it covers the theory well.
 ## Advanced courses
-* [Deep Reinforcement Learning and Control Spring 2017, CMU 10703](https://katefvision.github.io/#class goals): This is for reinforcement learning
+* [Deep Reinforcement Learning and Control](https://katefvision.github.io/#class goals): This is for reinforcement learning -  Spring 2017,CMU 10703
 ## Optimization Theory
 TBD
