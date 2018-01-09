@@ -19,3 +19,7 @@ TBD
 ## Interesting state of the art
 ### google updates related to search engine algorithms
 [Here](https://moz.com/google-algorithm-change)
+
+## language related resources
+### python
+* [python top questiosn over stackflow](https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/1/README.html)
