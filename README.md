@@ -10,5 +10,8 @@
 * [Natural Language Processing nltk book](http://www.nltk.org/book/)
 * [Spoken Language Processing](https://web.stanford.edu/class/cs224s/syllabus.html)
 * [More standford courses](https://nlp.stanford.edu/teaching/)
+### search engine
+* [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/course_schedule.html)
+* [Linguist 278: Programming for linguists](http://web.stanford.edu/class/linguist278/syllabus.html)
 ## Optimization Theory
 TBD
