@@ -15,3 +15,7 @@
 * [Linguist 278: Programming for linguists](http://web.stanford.edu/class/linguist278/syllabus.html)
 ## Optimization Theory
 TBD
+
+## Interesting state of the art
+### google updates related to search engine algorithms
+[Here](https://moz.com/google-algorithm-change)
