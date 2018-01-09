@@ -9,5 +9,6 @@
 ### Natural Language Processing
 * [Natural Language Processing nltk book](http://www.nltk.org/book/)
 * [Spoken Language Processing](https://web.stanford.edu/class/cs224s/syllabus.html)
+* [More standford courses](https://nlp.stanford.edu/teaching/)
 ## Optimization Theory
 TBD
