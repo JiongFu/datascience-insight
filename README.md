@@ -24,3 +24,6 @@ TBD
 ### python
 * chinese version [python top questiosn over stackflow](https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/1/README.html)
 * english version [top python questions over stackflow](https://stackoverflow.com/questions/tagged/python?sort=frequent&pageSize=15)
+
+## nice blogs
+* [Andrej Karpathy](http://karpathy.github.io/neuralnets/)
