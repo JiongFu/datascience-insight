@@ -27,3 +27,4 @@ TBD
 
 ## nice blogs
 * [Andrej Karpathy](http://karpathy.github.io/neuralnets/)
+* [bat interviews notes...](https://zhuanlan.zhihu.com/p/30650043)
