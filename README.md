@@ -29,3 +29,4 @@ TBD
 * [Andrej Karpathy](http://karpathy.github.io/neuralnets/)
 * [bat interviews notes...](https://zhuanlan.zhihu.com/p/30650043)
 * [big O complexity](http://bigocheatsheet.com/)
+* [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
