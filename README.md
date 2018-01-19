@@ -9,7 +9,7 @@
 ### Natural Language Processing
 * [Natural Language Processing nltk book](http://www.nltk.org/book/)
 * [Spoken Language Processing](https://web.stanford.edu/class/cs224s/syllabus.html)
-  * [很好的补充](http://cs224d.stanford.edu/syllabus.html)
+* [很好的补充](http://cs224d.stanford.edu/syllabus.html)  
 * [More standford courses](https://nlp.stanford.edu/teaching/)
 ### search engine
 * [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/course_schedule.html)
