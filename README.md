@@ -16,6 +16,7 @@
 * [Linguist 278: Programming for linguists](http://web.stanford.edu/class/linguist278/syllabus.html)
 ## Optimization Theory
 TBD
+* [optimization](https://ocw.mit.edu/courses/sloan-school-of-management/15-093j-optimization-methods-fall-2009/lecture-notes/)
 
 ## Interesting state of the art
 ### google updates related to search engine algorithms
