@@ -1,4 +1,5 @@
 # datascience-insight
+Now I host my blog on wordpress [My Blog](https://scieng264979635.wordpress.com/)
 ## Machine learning online courses
 * [Advanced Introduction to Machine Learning](https://www.cs.cmu.edu/~epxing/Class/10715/lecture.html): This course gives theoritic foundations of Machine Learning
 * [Introduction to Machine Learning
