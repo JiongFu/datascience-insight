@@ -34,3 +34,4 @@ TBD
 * [big O complexity](http://bigocheatsheet.com/)
 * [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
 * [数据挖掘十大算法。。。](https://www.gitbook.com/book/wizardforcel/dm-algo-top10/details)
+* [今日头条推荐算法](https://www.leiphone.com/news/201801/XlIxFZ5W3j8MvaEL.html)
