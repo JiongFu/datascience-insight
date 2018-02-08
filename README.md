@@ -6,6 +6,7 @@ Now I host my blog on wordpress [My Blog](https://scieng264979635.wordpress.com/
 ](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/schedule.html): Though this is just an introduction course, it covers the theory well.
 ## Advanced courses
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/): This is for reinforcement learning -  Spring 2017,CMU 10703
+* [Introduction to Reinforcement Learning UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html): an easy starting point
 ## Applications
 ### Natural Language Processing
 * [Natural Language Processing nltk book](http://www.nltk.org/book/)
