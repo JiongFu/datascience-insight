@@ -9,6 +9,7 @@ Now I host my blog on wordpress [My Blog](https://scieng264979635.wordpress.com/
 * [Introduction to Reinforcement Learning UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html): an easy starting point
 ## Applications
 ### Natural Language Processing
+* [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/)
 * [Natural Language Processing nltk book](http://www.nltk.org/book/)
 * [Spoken Language Processing](https://web.stanford.edu/class/cs224s/syllabus.html)
 * [NLP with deep learning](https://web.stanford.edu/class/cs224n/syllabus.html)
