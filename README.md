@@ -26,11 +26,12 @@ TBD
 ### google updates related to search engine algorithms
 [Here](https://moz.com/google-algorithm-change)
 
-## language related resources
+## language/framework related resources
 ### python
 * chinese version [python top questiosn over stackflow](https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/1/README.html)
 * english version [top python questions over stackflow](https://stackoverflow.com/questions/tagged/python?sort=frequent&pageSize=15)
-
+### tensorflow
+* [stanford cs20 tensorflow for deep learning research](https://www.sciencedirect.com/science/article/pii/S0306261916302707)
 ## nice blogs
 * [Andrej Karpathy](http://karpathy.github.io/neuralnets/)
 * [bat interviews notes...](https://zhuanlan.zhihu.com/p/30650043)
